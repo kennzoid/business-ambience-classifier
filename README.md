@@ -23,5 +23,6 @@ upscale business, likewise for 'sake' and trendy businesses.
 
 ## Code
 [Notebook](http://nbviewer.jupyter.org/github/kennzoid/business-ambience-classifier/blob/master/business_ambience_classifier.ipynb)
+
 All the code used in this project are contained within the Jupyter Notebook. I suggest viewing 
 it through Jupyter's nbviewer web app (link above).
